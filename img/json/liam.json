@@ -1,0 +1,90 @@
+{
+  "name": "Liam's Icons",
+  "description": "Icons By Liam",
+  "icons": [
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Ai.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/ChatGPT1.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Claude.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Google.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Instagram.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Spotify.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Telegram.png"
+    },
+    {
+      "name": "Airplane",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Airplane.png"
+    },
+    {
+      "name": "Airport",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/AirPort.png"
+    },
+    {
+      "name": "Switch",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Switch.png"
+    },
+    {
+      "name": "Adblock",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/adblock.png"
+    },
+    {
+      "name": "Clawdbot",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/clawdbot.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/final1.png"
+    },
+    {
+      "name": "Holiday",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/holiday.png"
+    },
+    {
+      "name": "Movie",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/movie.png"
+    },
+    {
+      "name": "News",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/news.png"
+    },
+    {
+      "name": "Oil",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/oil.png"
+    },
+    {
+      "name": "Robot",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/robot.png"
+    },
+    {
+      "name": "Weather",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/weather.png"
+    },
+    {
+      "name": "World",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/world.png"
+    },
+    {
+      "name": "Remote",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/remote.md"
+    }
+  ]
+}
