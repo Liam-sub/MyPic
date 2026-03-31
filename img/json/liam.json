@@ -12,7 +12,11 @@
     },
     {
       "name": "Claude",
-      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Claude.png"
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/claude.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/claude1.png"
     },
     {
       "name": "Google",
@@ -28,11 +32,15 @@
     },
     {
       "name": "Telegram",
-      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Telegram.png"
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/telegram.png"
     },
     {
       "name": "Airplane",
       "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/Airplane.png"
+    },
+    {
+      "name": "Airplane",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/airplane-1.png"
     },
     {
       "name": "Airport",
@@ -81,10 +89,6 @@
     {
       "name": "World",
       "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/world.png"
-    },
-    {
-      "name": "Remote",
-      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/remote.md"
     }
   ]
 }
