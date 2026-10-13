@@ -97,6 +97,18 @@
     {
       "name": "USA",
       "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/USA.png"
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/DE.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/SG.png"
+    },
+    {
+      "name": "UK",
+      "url": "https://raw.githubusercontent.com/Liam-sub/MyPic/main/img/liam/UK.png"
     }
   ]
 }
